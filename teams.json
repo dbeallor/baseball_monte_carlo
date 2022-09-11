@@ -1,0 +1,74 @@
+{
+    "leagues": [
+        {
+            "name": "AL",
+            "divisions": [
+                {
+                    "name": "East",
+                    "teams": [
+                        "New York Yankees",
+                        "Tampa Bay Rays",
+                        "Toronto Blue Jays",
+                        "Baltimore Orioles",
+                        "Boston Red Sox"
+                    ]
+                },
+                {
+                    "name": "Central",
+                    "teams": [
+                        "Cleveland Guardians",
+                        "Chicago White Sox",
+                        "Minnesota Twins",
+                        "Kansas City Royals",
+                        "Detroit Tigers"
+                    ]
+                },
+                {
+                    "name": "West",
+                    "teams": [
+                        "Houston Astros",
+                        "Seattle Mariners",
+                        "Los Angeles Angels",
+                        "Texas Rangers",
+                        "Oakland Athletics"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "NL",
+            "divisions": [
+                {
+                    "name": "East",
+                    "teams": [
+                        "New York Mets",
+                        "Atlanta Braves",
+                        "Philadelphia Phillies",
+                        "Miami Marlins",
+                        "Washington Nationals"
+                    ]
+                },
+                {
+                    "name": "Central",
+                    "teams": [
+                        "St. Louis Cardinals",
+                        "Milwaukee Brewers",
+                        "Chicago Cubs",
+                        "Cincinnati Reds",
+                        "Pittsburgh Pirates"
+                    ]
+                },
+                {
+                    "name": "West",
+                    "teams": [
+                        "Los Angeles Dodgers",
+                        "San Diego Padres",
+                        "San Francisco Giants",
+                        "Arizona Diamondbacks",
+                        "Colorado Rockies"
+                    ]
+                }
+            ]
+        }
+    ]
+}
